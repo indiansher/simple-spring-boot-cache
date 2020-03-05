@@ -4,7 +4,7 @@ Experiment project to use various implementation of caches (with an option to en
 
 # How to run ? 
 
-`mvn spring-boot:run -Drun.jvmArguments='-Dserver.port=8090'`
+`mvn spring-boot:run`
 
 ## Access Swagger-ui
 `http://localhost:8090/swagger-ui.html`
